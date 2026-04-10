@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Umut 👋</h1>
 <p align="center">
-  Full-stack developer from Tunceli, Türkiye · Into AI agents & automation
+  Full-stack developer from Türkiye · Into AI agents & automation
 </p>
 
 ---
@@ -23,4 +23,4 @@
 ![Umut's stats](https://github-readme-stats.vercel.app/api?username=palamut62&show_icons=true&theme=tokyonight)
 
 ### 📫 Get in touch
-🌐 [nootle.io](https://www.nootle.io) · 📍 Tunceli, Türkiye
+🌐 [nootle.io](https://www.nootle.io) · 📍 Türkiye
