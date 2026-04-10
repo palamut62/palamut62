@@ -19,8 +19,5 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 
-### 📊 Stats
-![Umut's stats](https://github-readme-stats.vercel.app/api?username=palamut62&show_icons=true&theme=tokyonight)
-
 ### 📫 Get in touch
 🌐 [nootle.io](https://www.nootle.io) · 📍 Türkiye
