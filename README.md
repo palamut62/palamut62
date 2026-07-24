@@ -1,5 +1,5 @@
 <!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Umut%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20AI%20Agents%20%26%20Automation&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Umut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20AI%20Agents%20%26%20Automation&descAlignY=58&descSize=18" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
@@ -34,29 +34,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,rust,fastapi,nextjs,react,tauri,tailwind,postgres,docker,git,vscode&theme=dark" />
-</p>
-
-<br/>
-
-<!-- ===== GITHUB STATS ===== -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palamut62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palamut62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=palamut62&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
-</p>
-
-<br/>
-
-<!-- ===== TROPHIES ===== -->
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palamut62&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 <br/>
