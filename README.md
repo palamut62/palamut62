@@ -1,5 +1,5 @@
 <!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Umut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20AI%20Agents%20%26%20Automation&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Umut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20AI%20Agents%20%26%20Automation&descAlignY=58&descSize=18&v=2" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
