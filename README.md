@@ -49,13 +49,6 @@ apps to self-hosted backends. Most of my work lives at the intersection of
 
 <br/>
 
-### Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=palamut62&show_icons=true&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=808080&hide_title=true&include_all_commits=true&hide=issues" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palamut62&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=808080" alt="Top languages" />
-</p>
-
 <details>
   <summary align="center">Contribution graph</summary>
   <p align="center">
