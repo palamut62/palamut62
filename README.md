@@ -1,51 +1,70 @@
-<!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Umut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20AI%20Agents%20%26%20Automation&descAlignY=58&descSize=18&v=2" />
+<h1 align="center">Umut Çelik</h1>
 
-<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <a href="https://www.nootle.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+LLM+automation;FastAPI+on+backend%2C+Next.js+on+frontend;Crafting+desktop+apps+with+Tauri+%2B+React;Founder+of+nootle.io" alt="Typing SVG" />
-  </a>
+  Full-stack developer · AI agents &amp; automation · Founder of <a href="https://www.nootle.io">nootle.io</a>
 </p>
 
-<!-- ===== SOCIALS ===== -->
 <p align="center">
-  <a href="https://www.nootle.io"><img src="https://img.shields.io/badge/Website-nootle.io-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/palamut62"><img src="https://img.shields.io/badge/Twitter-@palamut62-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:umutins62@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=palamut62&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" />
+  <a href="https://www.nootle.io"><img src="https://img.shields.io/badge/Website-nootle.io-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://twitter.com/palamut62"><img src="https://img.shields.io/badge/X-@palamut62-24292F?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:umutins62@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-24292F?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+### About
+
+I build LLM-powered agents and the tooling around them — from local-first desktop
+apps to self-hosted backends. Most of my work lives at the intersection of
+**Python/FastAPI** services, **Next.js** frontends and **Rust/Tauri** desktop shells.
+
+- Working on AI agent orchestration and developer tooling
+- Shipping cross-platform desktop apps with Tauri, Electron and React
+- Based in Türkiye · open to collaboration
 
 <br/>
 
-<!-- ===== ABOUT ===== -->
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+### Selected work
 
-- 🤖 Building **AI agents** and LLM-powered automation systems
-- 🖥️ Crafting **desktop apps** with **Tauri + React**
-- ⚡ **FastAPI** on the backend, **Next.js** on the frontend
-- 🌐 Founder of **[nootle.io](https://www.nootle.io)**
-- 📍 Based in **Türkiye**
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[termflow](https://github.com/palamut62/termflow)** | Multi-terminal & multi-agent canvas workspace — shells and AI agents side by side on an infinite canvas | TypeScript · Electron |
+| **[termflow-lite](https://github.com/palamut62/termflow-lite)** | Minimal, fast and deeply customizable cross-platform terminal | TypeScript · xterm |
+| **[PhoneShare](https://github.com/palamut62/PhoneShare)** | Private local file transfer from iPhone to Windows via PWA + FastAPI receiver | TypeScript · FastAPI · Tauri |
+| **[marknote](https://github.com/palamut62/marknote)** | Local markdown editor for the notes you share with AI | TypeScript · React |
 
 <br/>
 
-<!-- ===== TECH STACK ===== -->
-### 🛠️ Tech Stack
+### Tech
+
+**Languages** — Python · TypeScript · Rust · C#
+
+**Backend** — FastAPI · PostgreSQL · Redis · Docker
+
+**Frontend** — Next.js · React · Tailwind CSS
+
+**Desktop** — Tauri · Electron
+
+**AI** — LLM agents · RAG · workflow automation
+
+<br/>
+
+### Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,rust,fastapi,nextjs,react,tauri,tailwind,postgres,docker,git,vscode&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=palamut62&show_icons=true&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=808080&hide_title=true&include_all_commits=true&hide=issues" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palamut62&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=808080" alt="Top languages" />
 </p>
 
-<br/>
+<details>
+  <summary align="center">Contribution graph</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/palamut62/palamut62/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
+  </p>
+</details>
 
-<!-- ===== SNAKE ANIMATION ===== -->
-### 🐍 Contribution Snake
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/palamut62/palamut62/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=palamut62&style=flat-square&color=24292F&label=views" alt="Profile views" />
 </p>
-
-<br/>
-
-<!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
