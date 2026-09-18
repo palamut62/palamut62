@@ -1,11 +1,11 @@
 <h1 align="center">Umut Çelik</h1>
 
 <p align="center">
-  Full-stack developer · AI agents &amp; automation · Founder of <a href="https://www.nootle.io">nootle.io</a>
+  Full-stack developer · AI agents &amp; automation · Building <a href="https://www.arabaalsat.com.tr/">arabaalsat.com.tr</a>
 </p>
 
 <p align="center">
-  <a href="https://www.nootle.io"><img src="https://img.shields.io/badge/Website-nootle.io-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.arabaalsat.com.tr/"><img src="https://img.shields.io/badge/Website-arabaalsat.com.tr-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://twitter.com/palamut62"><img src="https://img.shields.io/badge/X-@palamut62-24292F?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:umutins62@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-24292F?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 </p>
