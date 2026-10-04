@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.arabaalsat.com.tr/"><img src="https://img.shields.io/badge/Website-arabaalsat.com.tr-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://twitter.com/palamut62"><img src="https://img.shields.io/badge/X-@palamut62-24292F?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/palamut62"><img src="https://img.shields.io/badge/X-@palamut62-24292F?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:umutins62@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-24292F?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -21,6 +21,10 @@ apps to self-hosted backends. Most of my work lives at the intersection of
 - Working on AI agent orchestration and developer tooling
 - Shipping cross-platform desktop apps with Tauri, Electron and React
 - Based in Türkiye · open to collaboration
+
+**Now building** — [MausCrew](https://github.com/palamut62/MausCrew), a local-first desktop
+workspace for coordinating AI agent crews, and [termflow-lite](https://github.com/palamut62/termflow-lite),
+a fast cross-platform terminal.
 
 <br/>
 
@@ -38,13 +42,11 @@ apps to self-hosted backends. Most of my work lives at the intersection of
 
 ### Journey
 
-| Year | Contributions | Milestone |
-| :--- | :--- | :--- |
-| **2015** | 1 | Joined GitHub |
-| **2021** | 6 | First public repos: [Bilirkisi-Dosya-Takip-Program-](https://github.com/palamut62/Bilirkisi-Dosya-Takip-Program-) and [Nakliye](https://github.com/palamut62/Nakliye), Python/PyQt tools for civil engineering work |
-| **2022–24** | 1 | Private desktop tools for engineering calculations and work schedules |
-| **2025** | 388 | Went all-in on AI: [nootle](https://github.com/palamut62/nootle) and [ai-tweet-bot](https://github.com/palamut62/ai-tweet-bot-pythonanywhere) |
-| **2026** | 1,145+ | 1,000+ commits and 60+ new repos. Built AI agent tooling ([agent-forge](https://github.com/palamut62/agent-forge), [arasclaw](https://github.com/palamut62/arasclaw)), then desktop apps: [termflow](https://github.com/palamut62/termflow), [termflow-lite](https://github.com/palamut62/termflow-lite), [MausCrew](https://github.com/palamut62/MausCrew), [PhoneShare](https://github.com/palamut62/PhoneShare) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-light.svg" />
+  <img alt="Timeline: joined GitHub in 2015, first Python repos in 2021, engineering tools 2022–24, all-in on AI in 2025, agent tooling and desktop apps in 2026" src="./assets/timeline-light.svg" width="100%" />
+</picture>
 
 <br/>
 
@@ -69,8 +71,3 @@ apps to self-hosted backends. Most of my work lives at the intersection of
   </p>
 </details>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palamut62&style=flat-square&color=24292F&label=views" alt="Profile views" />
-</p>
