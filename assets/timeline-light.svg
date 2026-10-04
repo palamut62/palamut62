@@ -10,26 +10,26 @@
 <circle cx="240" cy="92" r="6" fill="#ffffff" stroke="#59636e" stroke-width="2"/>
 <text x="240" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">First repos</text>
 <text x="240" y="154" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">Python · PyQt tools</text>
-<text x="240" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">6 contributions</text>
-<text x="400" y="64" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#59636e">2022–24</text>
+<text x="240" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">2 commits</text>
+<text x="400" y="64" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#59636e">2024</text>
 <circle cx="400" cy="92" r="6" fill="#ffffff" stroke="#59636e" stroke-width="2"/>
-<text x="400" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">Engineering tools</text>
-<text x="400" y="154" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">Private desktop apps</text>
-<text x="400" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">quiet years</text>
+<text x="400" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">Desktop tools</text>
+<text x="400" y="154" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">Private PyQt6 apps</text>
+<text x="400" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">234 commits</text>
 <text x="560" y="64" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#0969da">2025</text>
 <circle cx="560" cy="92" r="6" fill="#0969da" stroke="#0969da" stroke-width="2"/>
 <text x="560" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">All-in on AI</text>
 <text x="560" y="154" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">nootle · tweet bot</text>
-<text x="560" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">388 contributions</text>
+<text x="560" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">440 commits</text>
 <text x="720" y="64" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#0969da">2026 H1</text>
 <circle cx="720" cy="92" r="6" fill="#0969da" stroke="#0969da" stroke-width="2"/>
 <text x="720" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">Agent tooling</text>
 <text x="720" y="154" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">agent-forge · arasclaw</text>
-<text x="720" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">593 contributions</text>
+<text x="720" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">1,170 commits</text>
 <text x="880" y="64" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#0969da">2026 H2</text>
 <circle cx="880" cy="92" r="12" fill="#0969da" fill-opacity="0.18"/>
 <circle cx="880" cy="92" r="6" fill="#0969da" stroke="#0969da" stroke-width="2"/>
 <text x="880" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">Desktop apps</text>
 <text x="880" y="154" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">termflow · MausCrew</text>
-<text x="880" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">552+ contributions</text>
+<text x="880" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#59636e">1,160+ commits</text>
 </svg>

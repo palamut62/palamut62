@@ -45,8 +45,10 @@ a fast cross-platform terminal.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-light.svg" />
-  <img alt="Timeline: joined GitHub in 2015, first Python repos in 2021, engineering tools 2022–24, all-in on AI in 2025, agent tooling and desktop apps in 2026" src="./assets/timeline-light.svg" width="100%" />
+  <img alt="Timeline: joined GitHub in 2015, first Python repos in 2021, PyQt6 desktop tools in 2024, all-in on AI in 2025, agent tooling and desktop apps in 2026" src="./assets/timeline-light.svg" width="100%" />
 </picture>
+
+<sub>Commits across all branches, public and private repositories · 3,000+ in total.</sub>
 
 <br/>
 
