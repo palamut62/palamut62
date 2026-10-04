@@ -55,7 +55,7 @@ Windows-first port of Mole: a terminal toolkit for cleanup, uninstall leftovers 
 
 **[ui-design-skills-pack](https://github.com/palamut62/ui-design-skills-pack)** &nbsp;<sub>Agent skills</sub><br/>
 Reusable desktop UI/UX design skills for Codex, Claude Code and other AI coding agents.<br/>
-<sub>[Live demo](https://desktop-ui-design-skills.vercel.app) &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/palamut62/ui-design-skills-pack?style=flat-square&label=stars&labelColor=24292F&color=24292F" alt="stars" align="absmiddle" /></sub>
+<sub><img src="https://img.shields.io/github/stars/palamut62/ui-design-skills-pack?style=flat-square&label=stars&labelColor=24292F&color=24292F" alt="stars" align="absmiddle" /></sub>
 
 <br/>
 
