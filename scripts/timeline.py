@@ -1,4 +1,4 @@
-"""Generate the Journey timeline SVGs (desktop + mobile, light + dark) into assets/."""
+"""Generate the Journey timeline SVGs (light + dark) into assets/."""
 
 from html import escape
 from pathlib import Path
@@ -64,26 +64,7 @@ def desktop(c):
     return "\n".join(p + ["</svg>"]) + "\n"
 
 
-def mobile(c):
-    step, top, x = 92, 44, 44
-    w, h = 420, top + step * (len(NODES) - 1) + 60
-    ys = [top + i * step for i in range(len(NODES))]
-    p = frame(w, h, c)
-    p.append(f'<line x1="{x}" y1="{ys[0]}" x2="{x}" y2="{ys[-1]}" stroke="{c["line"]}" stroke-width="2"/>')
-    p.append(f'<line x1="{x}" y1="{ys[FIRST_AI]}" x2="{x}" y2="{ys[-1]}" stroke="{c["accent"]}" '
-             f'stroke-width="2"/>')
-    for i, (yy, (year, title, sub, stat)) in enumerate(zip(ys, NODES)):
-        hot = i >= FIRST_AI
-        p += node(x, yy, i, c)
-        p.append(text(76, yy - 8, year, 14, c["accent"] if hot else c["muted"], MONO, "600", "start"))
-        p.append(text(76, yy + 14, title, 17, c["text"], weight="600", anchor="start"))
-        line = sub + (f"  ·  {stat}" if stat else "")
-        p.append(text(76, yy + 36, line, 13.5, c["muted"], anchor="start"))
-    return "\n".join(p + ["</svg>"]) + "\n"
-
-
 if __name__ == "__main__":
     for name, c in THEMES.items():
         (ASSETS / f"timeline-{name}.svg").write_text(desktop(c), encoding="utf-8")
-        (ASSETS / f"timeline-mobile-{name}.svg").write_text(mobile(c), encoding="utf-8")
     print("ok")
