@@ -13,8 +13,6 @@ I turn engineering problems into software — and lately, into AI agents that do
 ## Journey
 
 <picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/timeline-mobile-dark.svg" />
-  <source media="(max-width: 640px)" srcset="./assets/timeline-mobile-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg" />
   <img alt="Journey: 2015 joined GitHub; 2021 first Python/PyQt repos; 2024 private PyQt6 desktop tools; 2025 all-in on AI; 2026 H1 agent tooling; 2026 H2 desktop apps" src="./assets/timeline-light.svg" width="100%" />
 </picture>
