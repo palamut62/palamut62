@@ -36,6 +36,18 @@ apps to self-hosted backends. Most of my work lives at the intersection of
 
 <br/>
 
+### Journey
+
+| Year | Contributions | Milestone |
+| :--- | :--- | :--- |
+| **2015** | 1 | Joined GitHub |
+| **2021** | 6 | First public repos: [Bilirkisi-Dosya-Takip-Program-](https://github.com/palamut62/Bilirkisi-Dosya-Takip-Program-) and [Nakliye](https://github.com/palamut62/Nakliye), Python/PyQt tools for civil engineering work |
+| **2022–24** | 1 | Private desktop tools for engineering calculations and work schedules |
+| **2025** | 388 | Went all-in on AI: [nootle](https://github.com/palamut62/nootle) and [ai-tweet-bot](https://github.com/palamut62/ai-tweet-bot-pythonanywhere) |
+| **2026** | 1,145+ | 1,000+ commits and 60+ new repos. Built AI agent tooling ([agent-forge](https://github.com/palamut62/agent-forge), [arasclaw](https://github.com/palamut62/arasclaw)), then desktop apps: [termflow](https://github.com/palamut62/termflow), [termflow-lite](https://github.com/palamut62/termflow-lite), [MausCrew](https://github.com/palamut62/MausCrew), [PhoneShare](https://github.com/palamut62/PhoneShare) |
+
+<br/>
+
 ### Tech
 
 **Languages** — Python · TypeScript · Rust · C#
